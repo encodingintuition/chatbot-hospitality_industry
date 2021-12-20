@@ -1,5 +1,0 @@
-os
-re
-streamlit
-SpeechRecognition #(3.8.1)
-gTTS #(2.2.3)
