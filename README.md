@@ -11,6 +11,12 @@ The information that the chatbot will require from the guest is:
 2. Type of towels
 3. Room number (max of 5,000 rooms)
 
+##### Technology 
+- python, Numpy, os, re
+- speech_recognition, gtts
+- Tensorflow, Nltk
+- scikit_learn
+
 
 
 ```python
