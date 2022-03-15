@@ -26,7 +26,7 @@ brew install portaudio
 
 <hr>
 
-### readme in process
+### readme in processew
 
 ```python
 
